@@ -1,0 +1,16 @@
+The quick brown fox jumps over the lazy dog.
+Apples are red, bananas are yellow, and grapes are purple.
+Go is a great programming language.
+Rust is fast and memory-safe.
+Zig is simple yet powerful.
+Python is easy to learn but slower in execution.
+I love writing backend systems in Go.
+Error messages should always be clear and helpful.
+todo: fix the missing semicolon in main.go
+FIXME: remove unused variable in parser.
+Never trust user input — always validate it!
+Some lines have nothing interesting.
+Grep is useful for searching patterns in files.
+Pattern matching makes life easier.
+hello world
+HELLO WORLD
